@@ -24,3 +24,15 @@
 [[constraint]]
   name = "github.com/gin-gonic/gin"
   version = "1.2.0"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/mitchellh/mapstructure"
+
+[[constraint]]
+  name = "github.com/caarlos0/env"
+  version = "3.2.0"
+
+[[constraint]]
+  name = "github.com/joho/godotenv"
+  version = "1.2.0"
